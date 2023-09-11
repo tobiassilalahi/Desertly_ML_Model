@@ -1,9 +1,9 @@
 ## Transfer Learning Approach: Apps For Image Classification on Dessert Problem
 
+* Tobias Ivandito Margogo Silalahi, @tobiassilalahi
 * Farel Firman, @farelyue
 * Mikhael Adiputra, @pitydevil
 * Theresia Veronika Rampisela, @theresiavr
-* Tobias Ivandito Margogo Silalahi, @tobiassilalahi
 
 ## Introduction
 
