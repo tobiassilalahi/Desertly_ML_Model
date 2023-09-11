@@ -51,12 +51,12 @@ CNN Model is one of the main categories to do image classification tasks. CNN ta
 6. Output Layer. Output shape: 1x1x22
 
 <p align = "center">
-	<img height = "200" src="https://raw.githubusercontent.com/pitydevil/Bangkit-Final-Project-Dessert/master/Images/baseline%20architecture.png">
+	<img height = "200" src="https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Images/baseline%20architecture.png">
 </p>
 
 <p align = "center">
-	<img width = "250" src="https://raw.githubusercontent.com/pitydevil/Bangkit-Final-Project-Dessert/master/Images/baseline%20100.png">
-	<img width = "250" src="https://raw.githubusercontent.com/pitydevil/Bangkit-Final-Project-Dessert/master/Images/baseline%20300.png">
+	<img width = "250" src="https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Images/baseline%20100.png">
+	<img width = "250" src="https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Images/baseline%20300.png">
 </p>
 
 Added epoch from 100 to 300 improve accuracy model performance from the baseline model is 51.80% to 59.80%. This improvement is fairly small and tends to be stable at 50% to 60%.
@@ -72,11 +72,11 @@ The improved performance model used the Transfer Learning approach. Transfer Lea
 4. The Output layer consists of 22 classes and used the Softmax activation function
 
 <p align = "center">
-	<img height = "200" src="https://raw.githubusercontent.com/pitydevil/Bangkit-Final-Project-Dessert/master/Images/compare%20architecture.png">
+	<img height = "200" src="https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Images/compare%20architecture.png">
 </p>
 
 <p align = "center">
-	<img height = "150" src="https://raw.githubusercontent.com/pitydevil/Bangkit-Final-Project-Dessert/master/Images/compare%20result.png">
+	<img height = "150" src="https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Images/compare%20result.png">
 </p>
 
 Based on the result of comparing all three pre-trained models, we found that InceptionV3 has a much better performance model compared to the others. For epoch = 5 validation accuracy is 55.09% and for epoch = 10 validation accuracy is 58.84%. Hence, InceptionV3 is chosen as the pre-trained model
