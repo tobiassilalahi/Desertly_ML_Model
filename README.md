@@ -39,7 +39,7 @@ The stages in image classification are:
 Data is divided into two parts that are training and validation data with ratios are 80% and 20%. Training data is used to build a model and validation data is used to evaluate the model.
 
 ### CNN Model From Scratch
-[CNN Model From Scratch](https://github.com/pitydevil/Bangkit-Final-Project-Dessert/blob/master/Bangkit%20Last%20Assignment.ipynb)
+[CNN Model From Scratch](https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Bangkit%20Last%20Assignment.ipynb)
 
 CNN Model is one of the main categories to do image classification tasks. CNN takes an input image and through the convolution layers used to extract features from the image and finally with activation function used to determine class from the image. The first step from building a CNN model is the determined model architecture. As for the architecture used is:
 
@@ -62,7 +62,7 @@ CNN Model is one of the main categories to do image classification tasks. CNN ta
 Added epoch from 100 to 300 improve accuracy model performance from the baseline model is 51.80% to 59.80%. This improvement is fairly small and tends to be stable at 50% to 60%.
 
 ### Improved CNN Model
-[Improved CNN Model](https://github.com/pitydevil/Bangkit-Final-Project-Dessert/blob/master/Transfer%20Learning%20with%20Google%20Colab%20(old%20data%20split).ipynb)
+[Improved CNN Model](https://github.com/tobiassilalahi/Desertly_ML_Model/blob/main/Transfer%20Learning%20with%20Google%20Colab%20(old%20data%20split).ipynb)
 
 The improved performance model used the Transfer Learning approach. Transfer Learning is an approach used model that has been trained before called a pre-trained model. Then, the feature from this model is fine-tuned to adjust to the case that will be implemented. There are many pre-trained models. But in this case, we only use 3 pre-trained such as InceptionV3, VGG-16, and Resnet-50 to compare the model performances. The top layer for each pre-trained model adjusts to the case Dessert problem with 22 classes. As for the architecture, we used:
 
